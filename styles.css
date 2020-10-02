@@ -47,3 +47,11 @@
 .link:hover::after {
     height: 100%;
 }
+
+@media only screen and (min-width : 321px) {
+    .header-font {
+        font-family: 'Oswald', sans-serif;
+        /*font-size: 5vw;*/
+        font-size: 300%;
+    }
+    }
