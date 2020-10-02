@@ -1,7 +1,6 @@
 {
-  "name": "Brinkmanig-landing-page",
+  "name": "brinkmanig-landing-page",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.5.1",
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/pjw9963/Brinkmanig-landing-page/issues"
   },
-  "homepage": "https://github.com/pjw9963/Brinkmanig-landing-page#readme"
+  "homepage": "https://github.com/pjw9963/Brinkmanig-landing-page#readme",
+  "description": ""
 }
